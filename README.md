@@ -40,7 +40,7 @@ restart - restart bot
 
  - Clone repo:
 
-        git clone https://github.com/Sam-Max/Rclone-Tg-Bot rclonetgbot/ && cd rclonetgbot
+        git clone https://github.com/JonaxHS/Rclone-Tg-Bot rclonetgbot/ && cd rclonetgbot
 
  - Install Docker(skip this if deploying without docker).
 
